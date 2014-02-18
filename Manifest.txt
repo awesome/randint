@@ -1,0 +1,9 @@
+.autotest
+History.md
+Manifest.txt
+README.md
+Rakefile
+bin/randint
+lib/randint.rb
+lib/randint/error.rb
+test/test_randint.rb
