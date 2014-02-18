@@ -7,10 +7,10 @@ Hoe.plugin :clean
 Hoe.plugin :yard
 Hoe.plugin :gemspec
 
-Hoe.spec "Randint" do
+Hoe.spec "randint" do
   developer("SoAwesomeMan", "callme@1800AWESO.ME")
 
-  self.yard_title = 'Randint (0.0.1)'
+  self.yard_title = 'Randint (0.0.2)'
   self.yard_markup = 'markdown'
   self.yard_opts = []
 

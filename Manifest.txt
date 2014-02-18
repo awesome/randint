@@ -6,4 +6,5 @@ Rakefile
 bin/randint
 lib/randint.rb
 lib/randint/error.rb
+randint.gemspec
 test/test_randint.rb

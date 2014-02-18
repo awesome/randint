@@ -2,7 +2,7 @@ require "securerandom"
 require "randint/error"
 
 module Randint
-  VERSION = "0.0.1"
+  VERSION = "0.0.2"
 
   extend self
 

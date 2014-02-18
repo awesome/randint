@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "Randint"
-  s.version = "0.0.1.20140218091803"
+  s.name = "randint"
+  s.version = "0.0.2.20140218094136"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["SoAwesomeMan"]
@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.files = [".autotest", "History.md", "Manifest.txt", "README.md", "Rakefile", "bin/randint", "lib/randint.rb", "lib/randint/error.rb", "test/test_randint.rb", ".gemtest"]
   s.homepage = "https://github.com/awesome/randint"
   s.licenses = ["MIT"]
-  s.rdoc_options = ["--title", "Randint (0.0.1)", "--markup", "markdown", "--quiet"]
+  s.rdoc_options = ["--title", "Randint (0.0.2)", "--markup", "markdown", "--quiet"]
   s.require_paths = ["lib"]
   s.rubyforge_project = "randint"
   s.rubygems_version = "1.8.23"
